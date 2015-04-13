@@ -29,3 +29,5 @@ def char_location(character):
 
     return xMin, xMax, yMin, yMax
 #
+
+
